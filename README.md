@@ -1,4 +1,3 @@
-# E-Commerce-Consumer-and-Purchase-Behavior
 # E-Commerce Consumer & Purchasing Behaviour Analytics
 
 ### From Click to Return: Understanding the Customer Journey
